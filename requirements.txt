@@ -1,0 +1,26 @@
+# Python dependencies for Intelligent Self-Driving Car
+
+# Computer Vision
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Machine Learning / Reinforcement Learning
+gym>=0.26.0
+stable-baselines3>=2.0.0
+tensorboard>=2.13.0
+
+# Data Processing
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Communication
+pyserial>=3.5
+pybluez>=0.23
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
